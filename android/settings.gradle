@@ -1,0 +1,3 @@
+rootProject.name = 'saberf8app'
+
+include ':app'
